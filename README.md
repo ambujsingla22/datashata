@@ -1,23 +1,32 @@
 
 🚀 **Data Science Resources & Tutorials 📊 # datashata**
+
 Repository of the data, for the data and by the data
 
 Welcome to my Data Science, Python, SQL, and AI repository! 🤖✨
 
 This repo is a collection of my tutorials, code snippets, and resources on topics like Data Science, Python, SQL, and Artificial Intelligence. Whether you're a beginner or an expert, you're sure to find something helpful here. 🎉
 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌟 **Introduction**
+
 Hey there! I'm Ambuj 👋, a passionate Data Scientist and AI enthusiast. This repository is where I share all my experiments, tutorials, and insights into Data Science, Machine Learning, Python, and SQL. 📈
+
 
 Expect to see:
 
 🐍 Python Scripts – Code snippets for data analysis, machine learning, and more!
+
 💾 SQL Queries – Database management, queries, and optimization tricks.
+
 🤖 AI & Machine Learning – Explore algorithms, models, and techniques.
+
 📊 Data Visualization – Stunning ways to present data and tell stories.
+
 📓 Code Notebooks – Interactive guides to play around with.
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
