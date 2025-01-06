@@ -1,5 +1,5 @@
 
-🚀 Data Science Resources & Tutorials 📊 # datashata
+🚀 **Data Science Resources & Tutorials 📊 # datashata**
 Repository of the data, for the data and by the data
 
 Welcome to my Data Science, Python, SQL, and AI repository! 🤖✨
@@ -8,7 +8,7 @@ This repo is a collection of my tutorials, code snippets, and resources on topic
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌟 Introduction
+🌟 **Introduction**
 Hey there! I'm Ambuj 👋, a passionate Data Scientist and AI enthusiast. This repository is where I share all my experiments, tutorials, and insights into Data Science, Machine Learning, Python, and SQL. 📈
 
 Expect to see:
@@ -21,7 +21,7 @@ Expect to see:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔍 Topics Covered
+🔍 **Topics Covered**
 Here’s a sneak peek of the main topics in this repo:
 
 🐍 Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, etc.
@@ -32,7 +32,7 @@ Here’s a sneak peek of the main topics in this repo:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🚀 Getting Started
+🚀 **Getting Started**
 Want to dive in? Here's how you can get started:
 
 1. Clone the Repo 📂
@@ -57,7 +57,7 @@ Browse through the project folders and start experimenting with the notebooks, s
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-💡 Contributing
+💡** Contributing**
 Got something to add? I’d love your contributions! 🤝
 
 Fork this repo
@@ -69,7 +69,7 @@ I’ll review and merge it! 🎉
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📬 Contact
+**📬 Contact**
 Feel free to reach out to me:
 
 🔗 LinkedIn: www.linkedin.com/in/ambujsingla
